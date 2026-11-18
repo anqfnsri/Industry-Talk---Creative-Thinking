@@ -7,7 +7,7 @@
 **Lecturer:** *Dr Shahizan*
 
 ## Overview
-This repository contains the report, reflections, and supporting materials for Assignment 1 based on the Industry Talk on **Creative Thinking** delivered by Dr. Zahari Othman.
+This repository contains the report, reflections and supporting materials for Assignment 1 based on the Industry Talk on **Creative Thinking** delivered by Dr. Zahari Othman.
 
 ## Group Members
 | Name | Matric Number |
