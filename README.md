@@ -25,9 +25,9 @@ This repository contains the report, reflections and supporting materials for As
   * `speakers-experience.md` – Summary of Dr. Zahari Othman's talk and experience
   * `thinking-definitions.md` – Definitions of critical, creative, mathematical, and scientific thinking
 * `report/`
-  * `README.md`-overview, group details and log activity 
   * `members-reflections.md` – Individual reflections from each group member
   * `references.md` – List of academic references and sources
+   * `README.md`-overview, group details and log activity 
 ---
 ## Log activity
 
