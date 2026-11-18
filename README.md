@@ -18,13 +18,13 @@ This repository contains the report, reflections and supporting materials for As
 |Nur Salihah Binti Mohd Hayazi|A26CS0456|
 ---
 ## Repository Structure
-* `content/` – Drafts and notes
+* `content/` 
   * `cover-page.pdf` – Official assignment cover page
   * `hots-explaination.md` – Explanation of Higher-Order Thinking Skills (HOTS)
   * `real-life-applications` – Real-life applications of creative thinking
   * `speakers-experience.md` – Summary of Dr. Zahari Othman's talk and experience
   * `thinking-definitions.md` – Definitions of critical, creative, mathematical, and scientific thinking
-* `report/` – Final report 
+* `report/` 
   * `members-reflections.md` – Individual reflections from each group member
   * `references.md` – List of academic references and sources
 ---
