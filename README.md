@@ -24,7 +24,8 @@ This repository contains the report, reflections and supporting materials for As
   * `real-life-applications` – Real-life applications of creative thinking
   * `speakers-experience.md` – Summary of Dr. Zahari Othman's talk and experience
   * `thinking-definitions.md` – Definitions of critical, creative, mathematical, and scientific thinking
-* `report/` 
+* `report/`
+  * `README.md`-overview, group details and log activity 
   * `members-reflections.md` – Individual reflections from each group member
   * `references.md` – List of academic references and sources
 ---
