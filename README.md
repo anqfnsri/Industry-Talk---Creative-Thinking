@@ -10,7 +10,7 @@ Log activity
 | 3  |   15/11   | Nur Salihah |Write critical, creative, mathematical and scientific thinking|Google Scholar search: definitions of critical, creative, mathematical and scientific thinking|report|
 |4 |  15/11 | Nur Salihah|  Personal reflection  | based on the industry talk  |   report&[members-reflections.md](report/members-reflections.md)|
 | 5 | 18/11|Nur Salihah|Write the four thinking |Gemini: summarize the reference | [thinking-definitions.md](content/thinking-definitions.md)|
-|6 |     |         |       |                                   |                      |
+|6 |  18/11   |Nur Salihah | references | Google Scholar & Google |                      |
 |7 |     |         |       |                                   |                      |
 | 8 |     |         |       |                                   |                      |
 | 9 |     |         |       |                                   |                      |
