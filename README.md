@@ -2,7 +2,7 @@
 
 **Group code:** S03-G2 (DataBridge) 
 
-**Course:** SCST1133 | Data Engineering Ecosystem *
+**Course:** SCST1133 | Data Engineering Ecosystem 
 
 **Lecturer:** *Dr Shahizan*
 
