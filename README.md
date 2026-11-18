@@ -17,7 +17,17 @@ This repository contains the report, reflections and supporting materials for As
 |Lucius Heng Du Meng|A26CS0445|
 |Nur Salihah Binti Mohd Hayazi|A26CS0456|
 ---
-
+## Repository Structure
+* `content/` – Drafts and notes
+  * `cover-page.pdf` – Official assignment cover page
+  * `hots-explaination.md` – Explanation of Higher-Order Thinking Skills (HOTS)
+  * `real-life-applications` – Real-life applications of creative thinking
+  * `speakers-experience.md` – Summary of Dr. Zahari Othman's talk and experience
+  * `thinking-definitions.md` – Definitions of critical, creative, mathematical, and scientific thinking
+* `report/` – Final report 
+  * `members-reflections.md` – Individual reflections from each group member
+  * `references.md` – List of academic references and sources
+---
 ## Log activity
 
 | No | Date | Member | Task | Source / search / AI prompt used | Output / GitHub link |
