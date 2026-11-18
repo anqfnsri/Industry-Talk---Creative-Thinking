@@ -9,7 +9,7 @@ Log activity
 | 2  | 13/11 | Aniq Fansuri | Write the speaker's experience section which is the summary of the talk | Dr. Zahari Othman (2026). Metacognitive Learning. Unpublished note, Center for Teaching Thinking and Innovation (CenT-TI). | [speakers-experience.md](https://github.com/anqfnsri/Industry-Talk---Creative-Thinking/blob/main/content/speakers-experience.md) |
 | 3  |      |        |      |                                  |                      |
 | 4  |   15/11   | Nur Salihah |Write critical,creative, mathematical and scientific thinking|using Google Scholar to research|report|
-| 5 |     |         |       |                                   |                      |
+| 5 |  15/11 |  Nur Salihah   |  Write reflection   |                                   |                      |
 | 6 |     |         |       |                                   |                      |
 | 7 |     |         |       |                                   |                      |
 | 8 |     |         |       |                                   |                      |
