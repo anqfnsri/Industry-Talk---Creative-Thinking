@@ -39,7 +39,7 @@ This repository contains the report, reflections and supporting materials for As
 |4 |  15/11 | Nur Salihah|  Personal reflection  | based on the industry talk  |   report & [members-reflections.md](report/members-reflections.md)|
 | 5 | 18/11|Nur Salihah|Write the four thinking |Gemini: summarize the reference | [thinking-definitions.md](content/thinking-definitions.md)|
 |6 |  18/11   |Nur Salihah | references | Google Scholar & Google |[references.md](report/references.md) |
-|7 |  19/11   |Ariana Qistina| Updating the real life application of HOTS in computer science and data engineering| Google Search: How data engineers apply HOTS in data engineering field                                   |                      |
+|7 |  19/11   |Ariana Qistina| Updating the real life application of HOTS in computer science and data engineering| Google Search: How data engineers apply HOTS in data engineering field                                   |[real-life-application.md](content/real-life-application.md)                     |
 | 8 |     |         |       |                                   |                      |
 | 9 |     |         |       |                                   |                      |
 | 10 |     |         |       |                                   |                      |
