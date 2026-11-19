@@ -4,7 +4,7 @@
 
 **Course:** SCST1133 | Data Engineering Ecosystem 
 
-**Lecturer:** *Dr Shahizan*
+**Lecturer:** *Assoc. Prof. Dr. Mohd Shahizan Othman*
 
 ## Overview
 This repository contains the report, reflections and supporting materials for Assignment 1 based on the Industry Talk on **Creative Thinking** delivered by Dr. Zahari Othman.
