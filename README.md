@@ -40,12 +40,13 @@ This repository contains the report, reflections and supporting materials for As
 | 5 | 15/11 | Ariana Qistina | Writing personal reflection | Based on the industry talk | [members-reflections.md](report/members-reflections.md) |
 | 6 | 15/11 | Lucius Heng | Write Higher Thinking Order skills explaination | Based on google search and notes from industry talk | [hots-explaination.md](content/hots-explaination.md) |
 | 7 |  15/11 | Nur Salihah|  Personal reflection  | based on the industry talk  |   report & [members-reflections.md](report/members-reflections.md)|
-| 8 | 18/11|Nur Salihah|Write the four thinking |Gemini: summarize the reference | [thinking-definitions.md](content/thinking-definitions.md)|
-| 9 |  18/11   |Nur Salihah | references | Google Scholar & Google |[references.md](report/references.md) |
-| 10 |  19/11   |Ariana Qistina| Updating the real life application of HOTS in data engineering| Google Search: How data engineers apply HOTS in data engineering field                                   |[real-life-application.md](content/real-life-application.md)                     |
-| 11 |  19/11   | Lucius Heng        |   reference    |    Based on my own experience                               |                      |
-| 12 |     |         |       |                                   |                      |
+| 8 |   16/11  | Aniq Fansuri | Create a new repository to store progress of the report including the log activity      |         Google search : "how to create a new repository and add files to github"                          |                      |
+| 9 | 18/11|Nur Salihah|Write the four thinking |Gemini: summarize the reference | [thinking-definitions.md](content/thinking-definitions.md)|
+| 10 |  18/11   |Nur Salihah | references | Google Scholar & Google |[references.md](report/references.md) |
+| 11 |  19/11   |Ariana Qistina| Updating the real life application of HOTS in data engineering| Google Search: How data engineers apply HOTS in data engineering field                                   |[real-life-application.md](content/real-life-application.md)                     |
+| 12 |  19/11   | Lucius Heng        |   reference    |    Based on my own experience                               |                      |
 | 13 |     |         |       |                                   |                      |
 | 14 |     |         |       |                                   |                      |
 | 15 |     |         |       |                                   |                      |
 | 16 |     |         |       |                                   |                      |
+| 17 |     |         |       |                                   |                      |
