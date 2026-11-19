@@ -10,3 +10,5 @@
 * Paul, R. and Elder, L. (2015). *The Thinker's Guide to Scientific Thinking: Based on Critical Thinking Concepts & Principles*. (4th ed.). Lanham, Maryland: Rowman & Littlefield.
 * Runco, M. A. and Jaeger, G. J. (2012). The Standard Definition of Creativity. *Creativity Research Journal*. 24(1), 92–96.
 * Packkildurai, A. (2025, October 23). Thinking like a data engineer. Data Engineering Weekly.
+* Dr. Zahari Othman (2026). Metacognitive Learning. Unpublished note, Center for Teaching Thinking and Innovation (CenT-TI).
+
