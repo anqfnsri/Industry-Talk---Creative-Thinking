@@ -6,3 +6,6 @@
 
 *“This industrial talk has reshaped my plan to achieve success throughout my degree and soon in the industry. Instead of focusing on memorization and exercises, I will actively practice metacognitive awareness on my assignments to become a real reflective learner that Dr. Zahari mentioned. From this talk, I also understand that critical thinking is not purely about problem solving but it also involves analysing strategies, observing patterns and making sound decisions. In data engineering, this matters because designing pipelines and handling real data means constantly weighing trade-offs, not just following a method.”* 
 **-Aniq Fansuri**
+
+“To actually succeed in data engineering over the next three years, I will move past blind trial-and-error to become a truly reflective learner. I will apply Polya’s model to break down the requirements first, and whenever a pipeline breaks, I will take a step back to evaluate my own thoughts. This is how I'll build the real problem-solving skills this industry demands.”
+ - Lucius Heng
