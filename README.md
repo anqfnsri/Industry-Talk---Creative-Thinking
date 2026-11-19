@@ -38,14 +38,14 @@ This repository contains the report, reflections and supporting materials for As
 | 3 |  14/11 | Ariana Qistina | Write the real life application of HOTS in computer science | Google Search: HOTS in Computer Science field | [real-life-application.md](content/real-life-application.md) |
 | 4 |   15/11   | Nur Salihah |Write critical, creative, mathematical and scientific thinking|Google Scholar search: definitions of critical, creative, mathematical and scientific thinking|report|
 | 5 | 15/11 | Ariana Qistina | Writing personal reflection | Based on the industry talk | [members-reflections.md](report/members-reflections.md) |
-| 6 | 15/11 | Lucius Heng | Write Higher Thinking Order skills explaination | Based on google search and notes from industry talk | [hots-explaination.md](content/hots-explaination.md) |
+| 6 | 15/11 | Lucius Heng | Write Higher Thinking Order skills explaination | Dr. Zahari Othman (2026). Metacognitive Learning. Unpublished note, Center for Teaching Thinking and Innovation (CenT-TI). | [hots-explaination.md](content/hots-explaination.md) |
 | 7 |  15/11 | Nur Salihah|  Personal reflection  | based on the industry talk  |   report & [members-reflections.md](report/members-reflections.md)|
 | 8 |   16/11  | Aniq Fansuri | Create a new repository to store progress of the report including the log activity      |         Google search : "how to create a new repository and add files to github" | [https://github.com/anqfnsri/Industry-Talk---Creative-Thinking/tree/main] |
 | 9 | 18/11|Nur Salihah|Write the four thinking |Gemini: summarize the reference | [thinking-definitions.md](content/thinking-definitions.md)|
 | 10 |  18/11   |Nur Salihah | references | Google Scholar & Google |[references.md](report/references.md) |
 | 11 |  19/11   |Ariana Qistina| Updating the real life application of HOTS in data engineering| Google Search: How data engineers apply HOTS in data engineering field                                   |[real-life-application.md](content/real-life-application.md)                     |
 | 12 | 19/11 | Lucius Heng   |  Personal Reflection     | Based on industry talk                                  |     [members-reflections.md](report/members-reflections.md)               |
-| 13 |     |         |       |                                   |                      |
+| 13 |  19/11   | Lucius Heng        |  Reference     |  Dr. Zahari Othman (2026). Metacognitive Learning. Unpublished note, Center for Teaching Thinking and Innovation (CenT-TI).                                 |   [references.md](report/references.md)                   |
 | 14 |     |         |       |                                   |                      |
 | 15 |     |         |       |                                   |                      |
 | 16 |     |         |       |                                   |                      |
