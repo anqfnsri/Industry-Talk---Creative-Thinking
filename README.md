@@ -35,14 +35,16 @@ This repository contains the report, reflections and supporting materials for As
 |----|------|--------|------|----------------------------------|----------------------|
 | 1  | 13/11 | Aniq Fansuri | Create the cover page for the report | Google search : "academic report cover page" | [cover-page.pdf](https://github.com/anqfnsri/Industry-Talk---Creative-Thinking/blob/main/content/cover-page.pdf) |
 | 2  | 13/11 | Aniq Fansuri | Write the speaker's experience section which is the summary of the talk | Dr. Zahari Othman (2026). Metacognitive Learning. Unpublished note, Center for Teaching Thinking and Innovation (CenT-TI). | [speakers-experience.md](https://github.com/anqfnsri/Industry-Talk---Creative-Thinking/blob/main/content/speakers-experience.md) |
-| 3  |   15/11   | Nur Salihah |Write critical, creative, mathematical and scientific thinking|Google Scholar search: definitions of critical, creative, mathematical and scientific thinking|report|
-|4 |  15/11 | Nur Salihah|  Personal reflection  | based on the industry talk  |   report & [members-reflections.md](report/members-reflections.md)|
-| 5 | 18/11|Nur Salihah|Write the four thinking |Gemini: summarize the reference | [thinking-definitions.md](content/thinking-definitions.md)|
-|6 |  18/11   |Nur Salihah | references | Google Scholar & Google |[references.md](report/references.md) |
-|7 |  19/11   |Ariana Qistina| Updating the real life application of HOTS in computer science and data engineering| Google Search: How data engineers apply HOTS in data engineering field                                   |[real-life-application.md](content/real-life-application.md)                     |
-| 8 |     |         |       |                                   |                      |
-| 9 |     |         |       |                                   |                      |
+| 3 |  14/11 | Ariana Qistina | Write the real life application of HOTS in computer science | Google Search: HOTS in Computer Science field | [real-life-application.md](content/real-life-application.md) |
+| 4 |   15/11   | Nur Salihah |Write critical, creative, mathematical and scientific thinking|Google Scholar search: definitions of critical, creative, mathematical and scientific thinking|report|
+| 5 | 15/11 | Ariana Qistina | Writing personal reflection | Based on the industry talk | [members-reflections.md](report/members-reflections.md) |
+| 6 |  15/11 | Nur Salihah|  Personal reflection  | based on the industry talk  |   report & [members-reflections.md](report/members-reflections.md)|
+| 7 | 18/11|Nur Salihah|Write the four thinking |Gemini: summarize the reference | [thinking-definitions.md](content/thinking-definitions.md)|
+| 8 |  18/11   |Nur Salihah | references | Google Scholar & Google |[references.md](report/references.md) |
+| 9 |  19/11   |Ariana Qistina| Updating the real life application of HOTS in data engineering| Google Search: How data engineers apply HOTS in data engineering field                                   |[real-life-application.md](content/real-life-application.md)                     |
 | 10 |     |         |       |                                   |                      |
 | 11 |     |         |       |                                   |                      |
 | 12 |     |         |       |                                   |                      |
 | 13 |     |         |       |                                   |                      |
+| 14 |     |         |       |                                   |                      |
+| 15 |     |         |       |                                   |                      |
