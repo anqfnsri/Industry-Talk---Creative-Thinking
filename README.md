@@ -43,7 +43,7 @@ This repository contains the report, reflections and supporting materials for As
 | 8 | 18/11|Nur Salihah|Write the four thinking |Gemini: summarize the reference | [thinking-definitions.md](content/thinking-definitions.md)|
 | 9 |  18/11   |Nur Salihah | references | Google Scholar & Google |[references.md](report/references.md) |
 | 10 |  19/11   |Ariana Qistina| Updating the real life application of HOTS in data engineering| Google Search: How data engineers apply HOTS in data engineering field                                   |[real-life-application.md](content/real-life-application.md)                     |
-| 11 |     |         |       |                                   |                      |
+| 11 |  19/11   | Lucius Heng        |   reference    |    Based on my own experience                               |                      |
 | 12 |     |         |       |                                   |                      |
 | 13 |     |         |       |                                   |                      |
 | 14 |     |         |       |                                   |                      |
