@@ -1,4 +1,4 @@
-**ASSIGNMENT 1 – INDUSTRY TALK 1: CREATIVE THINKING**
+19/11**ASSIGNMENT 1 – INDUSTRY TALK 1: CREATIVE THINKING**
 
 **Group code:** S03-G2 (DataBridge) 
 
@@ -44,7 +44,7 @@ This repository contains the report, reflections and supporting materials for As
 | 9 | 18/11|Nur Salihah|Write the four thinking |Gemini: summarize the reference | [thinking-definitions.md](content/thinking-definitions.md)|
 | 10 |  18/11   |Nur Salihah | references | Google Scholar & Google |[references.md](report/references.md) |
 | 11 |  19/11   |Ariana Qistina| Updating the real life application of HOTS in data engineering| Google Search: How data engineers apply HOTS in data engineering field                                   |[real-life-application.md](content/real-life-application.md)                     |
-| 12 ||    |       |                                   |                      |
+| 12 | 19/11 | Lucius Heng   |  Personal Reflection     | Based on industry talk                                  |     [members-reflections.md](report/members-reflections.md)               |
 | 13 |     |         |       |                                   |                      |
 | 14 |     |         |       |                                   |                      |
 | 15 |     |         |       |                                   |                      |
