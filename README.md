@@ -43,10 +43,11 @@ This repository contains the report, reflections and supporting materials for As
 | 8 |   16/11  | Aniq Fansuri | Create a new repository to store progress of the report including the log activity      |         Google search : "how to create a new repository and add files to github" | [https://github.com/anqfnsri/Industry-Talk---Creative-Thinking/tree/main] |
 | 9 | 18/11|Nur Salihah|Write the four thinking |Gemini: summarize the reference | [thinking-definitions.md](content/thinking-definitions.md)|
 | 10 |  18/11   |Nur Salihah | references | Google Scholar & Google |[references.md](report/references.md) |
-| 11 |  19/11   |Ariana Qistina| Updating the real life application of HOTS in data engineering| Google Search: How data engineers apply HOTS in data engineering field                                   |[real-life-application.md](content/real-life-application.md)                     |
-| 12 | 19/11 | Lucius Heng   |  Personal Reflection     | Based on industry talk                                  |     [members-reflections.md](report/members-reflections.md)               |
-| 13 |  19/11   | Lucius Heng        |  Reference     |  Dr. Zahari Othman (2026). Metacognitive Learning. Unpublished note, Center for Teaching Thinking and Innovation (CenT-TI).                                 |   [references.md](report/references.md)                   |
-| 14 |     |         |       |                                   |                      |
+| 11 |  18/11   | Aniq Fansuri | Transfering the report from Google Docs to Canva  |  Canva template                                 |                      |
+| 12 |  19/11   |Ariana Qistina| Updating the real life application of HOTS in data engineering| Google Search: How data engineers apply HOTS in data engineering field                                   |[real-life-application.md](content/real-life-application.md)                     |
+| 13 | 19/11 | Lucius Heng   |  Personal Reflection     | Based on industry talk                                  |     [members-reflections.md](report/members-reflections.md)               |
+| 14 |  19/11   | Lucius Heng        |  Reference     |  Dr. Zahari Othman (2026). Metacognitive Learning. Unpublished note, Center for Teaching Thinking and Innovation (CenT-TI).                                 |   [references.md](report/references.md)                   |
 | 15 |     |         |       |                                   |                      |
 | 16 |     |         |       |                                   |                      |
 | 17 |     |         |       |                                   |                      |
+| 18 |     |         |       |                                   |                      |
